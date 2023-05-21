@@ -1,0 +1,21 @@
+npm init -y
+npm install express
+index.js
+node index
+npm i -D nodemon
+npm install npx nodemon
+
+  "scripts": {
+    //"test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+
+npm run dev
+
+
+npm i moment
+npm i uuid
+npm install express-handlebars
+
+
